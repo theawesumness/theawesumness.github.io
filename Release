@@ -1,8 +1,8 @@
 Origin: Repo Manager Deluxe Default Origin
-Label: Repo Manager Deluxe Default Name
+Label: weird repo archive thing
 Suite: stable
 Version: 1.0
-Codename: iospackagemanagerdeluxe
+Codename: fifiisawesumgoodrepo
 Architectures: iphoneos-arm
 Components: main
-Description: Made with Repo Manager Deluxe
+Description: yeah yeah yeah i made this with Repo Manager Deluxe

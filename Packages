@@ -1,3 +1,45 @@
+Package: com.inixthium.angrypooipad
+Name: Angry Poo Game IPAD VERSION
+Version: 2.0
+Architecture: iphoneos-arm
+Author: iNixthium <inixthium2011@gmail.com>
+Depiction: http://modmyi.com/info/angrypoogameipadversion.d.php
+Priority: extra
+Section: Games
+Description: Angry Poo for iPad!
+Homepage: http://modmyi.com/info/angrypoogameipadversion.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Filename: debs/com.inixthium.angrypooipad_2.0_iphoneos-arm.deb
+Depiction: https://imnotsatan.github.io/depictions/com.inixthium.angrypooipad.html
+Icon: https://imnotsatan.github.io/icons/com.inixthium.angrypooipad.png
+Size: 21490980
+MD5sum: c0a22c5c5c6e423f3847febd944e1968
+SHA1: 3d857eeb0cddb6ab374aa6e0fc2ddc81769a4c3b
+SHA256: 23e67b2ae116e45c5fffa9e04d912d3c9d855459c49562f449d65f4b353d534a
+SHA521: a542b80a53b4814e84d78421f6011652d36072c1ffab5403c671887034581336df02a6b7c73f16180713e5002b743beacfbcf1722b3512c46e8ba46e1beac742
+
+Package: com.inixthium.angrypoospace
+Name: Angry Poo Space
+Version: 1.3
+Architecture: iphoneos-arm
+Author: iNixthium <inixthium2011@gmail.com>
+Depiction: http://modmyi.com/info/angrypoospace.d.php
+Priority: extra
+Section: Games
+Description: My gift to you all...  ANGRY POO SPACE!!!!
+Homepage: http://modmyi.com/info/angrypoospace.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Filename: debs/com.inixthium.angrypoospace_1.3_iphoneos-arm.deb
+Depiction: https://imnotsatan.github.io/depictions/com.inixthium.angrypoospace.html
+Icon: https://imnotsatan.github.io/icons/com.inixthium.angrypoospace.png
+Size: 18091258
+MD5sum: f94b9e3f882655ab90ffe4d0060c26ed
+SHA1: 5bcb85603445c6ab2100931bf0d3181243176d55
+SHA256: 7101536b48daa0c904d84eb3454f6d5f866842ee91688a4090e372c335a893fc
+SHA521: 2d8cad7ca79d3acba9c0e0162981629cdede79550e09bc18feb56a070bed320efa7ab18b68d002a6fa5b90f12dd9874d7130811c7108c8024c1604d61b4e2ee6
+
 Package: com.iCrackNews.graviboard
 Name: Graviboard
 Version: 2.1.1-1
