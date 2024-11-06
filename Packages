@@ -11,8 +11,8 @@ Homepage: http://modmyi.com/info/angrypoogameipadversion.php
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 Filename: debs/com.inixthium.angrypooipad_2.0_iphoneos-arm.deb
-Depiction: https://imnotsatan.github.io/depictions/com.inixthium.angrypooipad.html
-Icon: https://imnotsatan.github.io/icons/com.inixthium.angrypooipad.png
+Depiction: https://theawesumness.github.io/depictions/com.inixthium.angrypooipad.html
+Icon: https://theawesumness.github.io/icons/com.inixthium.angrypooipad.png
 Size: 21490980
 MD5sum: c0a22c5c5c6e423f3847febd944e1968
 SHA1: 3d857eeb0cddb6ab374aa6e0fc2ddc81769a4c3b
@@ -32,8 +32,8 @@ Homepage: http://modmyi.com/info/angrypoospace.php
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 Filename: debs/com.inixthium.angrypoospace_1.3_iphoneos-arm.deb
-Depiction: https://imnotsatan.github.io/depictions/com.inixthium.angrypoospace.html
-Icon: https://imnotsatan.github.io/icons/com.inixthium.angrypoospace.png
+Depiction: https://theawesumness.github.io/depictions/com.inixthium.angrypoospace.html
+Icon: https://theawesumness.github.io/icons/com.inixthium.angrypoospace.png
 Size: 18091258
 MD5sum: f94b9e3f882655ab90ffe4d0060c26ed
 SHA1: 5bcb85603445c6ab2100931bf0d3181243176d55
@@ -56,8 +56,8 @@ Conflicts: com.conradkramer.graviboard
 Replaces: com.conradkramer.graviboard
 Icon: file:///Library/PreferenceBundles/GraviboardSettings.bundle/Graviboard@2x.png
 Filename: debs/graviboard_2.1.1-1.deb
-Depiction: https://imnotsatan.github.io/depictions/com.iCrackNews.graviboard.html
-Icon: https://imnotsatan.github.io/icons/com.iCrackNews.graviboard.png
+Depiction: https://theawesumness.github.io/depictions/com.iCrackNews.graviboard.html
+Icon: https://theawesumness.github.io/icons/com.iCrackNews.graviboard.png
 Size: 188610
 MD5sum: 98427cf73f10d16f0757275f882eb3ed
 SHA1: 8c15f4c0f0aa40a6ddee5f4bf7c1376ee25c9762
@@ -79,8 +79,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: conradkramer
 Tag: role::developer, purpose::library
 Filename: debs/libbox2d_2.3.0-1.deb
-Depiction: https://imnotsatan.github.io/depictions/libbox2d.html
-Icon: https://imnotsatan.github.io/icons/libbox2d.png
+Depiction: https://theawesumness.github.io/depictions/libbox2d.html
+Icon: https://theawesumness.github.io/icons/libbox2d.png
 Size: 141608
 MD5sum: abc5a93d0377bdc97d90e797f0a8373c
 SHA1: d9e5f94d9f7a852d934dcbaada50d8091dea4885
