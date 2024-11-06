@@ -1,0 +1,47 @@
+Package: com.iCrackNews.graviboard
+Name: Graviboard
+Version: 2.1.1-1
+Depiction: http://icnews.tk/info/?id=graviboard
+Installed-Size: 452
+Description: Adds gravity to SpringBoard!
+Section: iCrackNews-Tweaks
+Author: Julio Verne <jlio_verne@hotmail.com>
+Maintainer: iCrackNews <jlio_verne@hotmail.com>
+Sponsor: iCrackNews <jlio_verne@hotmail.com>
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate, libactivator, preferenceloader (>= 1.2), libbox2d
+Conflicts: com.conradkramer.graviboard
+Replaces: com.conradkramer.graviboard
+Icon: file:///Library/PreferenceBundles/GraviboardSettings.bundle/Graviboard@2x.png
+Filename: debs/graviboard_2.1.1-1.deb
+Depiction: https://imnotsatan.github.io/depictions/com.iCrackNews.graviboard.html
+Icon: https://imnotsatan.github.io/icons/com.iCrackNews.graviboard.png
+Size: 188610
+MD5sum: 98427cf73f10d16f0757275f882eb3ed
+SHA1: 8c15f4c0f0aa40a6ddee5f4bf7c1376ee25c9762
+SHA256: 40228a50d9f176c0d826425f8b7413f5e19e8226e444560dfc6afe888e0a19e1
+SHA521: 5aa4a1c8de2f65a04748c7cfe1227a4f3dcd4e6ba4d1b23d8ed3c0ee4a43c0c998ff3100990e714532e2268c0a08092dfda43e131402c4884ecb6e580e910a75
+
+Package: libbox2d
+Name: Box2D
+Version: 2.3.0-1
+Installed-Size: 557
+Architecture: iphoneos-arm
+Description: A 2D physics engine written by Erin Catto
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbox2dDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbox2dDp
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Author: Conrad Kramer <support@kramerapps.com>
+Section: Development
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: conradkramer
+Tag: role::developer, purpose::library
+Filename: debs/libbox2d_2.3.0-1.deb
+Depiction: https://imnotsatan.github.io/depictions/libbox2d.html
+Icon: https://imnotsatan.github.io/icons/libbox2d.png
+Size: 141608
+MD5sum: abc5a93d0377bdc97d90e797f0a8373c
+SHA1: d9e5f94d9f7a852d934dcbaada50d8091dea4885
+SHA256: baa060ada98367aa81e4bd69aa179405f42ac8a1abd372ab2be1f3578d80f65d
+SHA521: a0cf9e3fbbf93065de83d6019b04f7bd9d18a71a3c7b378d09e836dc22209b2c5bf2f1f766b5315a2735917a8eb3bc341708b50b385160b999b2d7298653adcb
+
