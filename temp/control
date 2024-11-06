@@ -1,0 +1,14 @@
+Package: libbox2d
+Name: Box2D
+Version: 2.3.0-1
+Installed-Size: 557
+Architecture: iphoneos-arm
+Description: A 2D physics engine written by Erin Catto
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbox2dDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbox2dDp
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Author: Conrad Kramer <support@kramerapps.com>
+Section: Development
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: conradkramer
+Tag: role::developer, purpose::library
