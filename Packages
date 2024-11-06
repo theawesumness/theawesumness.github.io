@@ -40,27 +40,6 @@ SHA1: 5bcb85603445c6ab2100931bf0d3181243176d55
 SHA256: 7101536b48daa0c904d84eb3454f6d5f866842ee91688a4090e372c335a893fc
 SHA521: 2d8cad7ca79d3acba9c0e0162981629cdede79550e09bc18feb56a070bed320efa7ab18b68d002a6fa5b90f12dd9874d7130811c7108c8024c1604d61b4e2ee6
 
-Package: name.alleon.displayrecorder
-Name: Display Recorder
-Version: 1.2.3-1
-Architecture: iphoneos-arm
-Description: Display Recorder – пишем видео с экрана iPhone. 
-Maintainer: Alleon <andjerk@gmail.com>
-Author: Ryan Petrich <rpetrich@gmail.com>
-Depends: mobilesubstrate, preferenceloader (>= 2.0), libactivator (>= 1.4.5), gdata-objectivec-client, firmware (>= 3.0), openssl, gsc.opengles-2, firmware (<< 4.4)
-Section: App
-Installed-Size: 888
-Sponsor: NewApps.ru <http://www.newapps.ru>
-Depiction: http://www.newapps.ru/depiction/displayrecorder.html
-Filename: debs/displayrecorder.deb
-Depiction: https://theawesumness.github.io/depictions/name.alleon.displayrecorder.html
-Icon: https://theawesumness.github.io/icons/name.alleon.displayrecorder.png
-Size: 406584
-MD5sum: 88356a356477622d9818080cf0d0a01c
-SHA1: 7769e94ff35bad0a0b3bdb0c0f7a430479aa127d
-SHA256: d1f32e3fd36b9db0233fa055293e67734a0d0da9b7be04eaa6ef68a5a4a34238
-SHA521: 2fab762ab82d0ec4f8905f99386eefe65466e488cc7e937b7dfb82f4b8c3f9e457a63e55e61e04c4bd6ff4edfa2102e9b5495e6ad7926bcbdd721f98ddb7edd6
-
 Package: com.iCrackNews.graviboard
 Name: Graviboard
 Version: 2.1.1-1
@@ -107,4 +86,27 @@ MD5sum: abc5a93d0377bdc97d90e797f0a8373c
 SHA1: d9e5f94d9f7a852d934dcbaada50d8091dea4885
 SHA256: baa060ada98367aa81e4bd69aa179405f42ac8a1abd372ab2be1f3578d80f65d
 SHA521: a0cf9e3fbbf93065de83d6019b04f7bd9d18a71a3c7b378d09e836dc22209b2c5bf2f1f766b5315a2735917a8eb3bc341708b50b385160b999b2d7298653adcb
+
+Package: com.booleanmagic.displayrecorder
+Name: Display Recorder
+Version: 1.3.7
+Architecture: iphoneos-arm
+Description: Record the display in real-time with YouTube uploads, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Depiction: http://rpetri.ch/cydia/displayrecorder/
+Website: http://rpetri.ch/cydia/displayrecorder/
+Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depends: mobilesubstrate, preferenceloader (>= 2.0.5), libactivator (>= 1.7.2), gdata-objectivec-client, firmware (>= 3), openssl, gsc.opengles-2, firmware (<< 6.2)
+Tag: cydia::commercial
+Section: System
+dev: rpetrich
+Installed-Size: 1340
+Filename: debs/DisplayRecorder_ios5.1.1.deb
+Depiction: https://theawesumness.github.io/depictions/com.booleanmagic.displayrecorder.html
+Icon: https://theawesumness.github.io/icons/com.booleanmagic.displayrecorder.png
+Size: 664524
+MD5sum: 2aabf9da32245a4b9a7b759fdacd0b69
+SHA1: b9faf02c7fdc3aa399ec60b4024f3833fe26bfa2
+SHA256: a01382e4cfe22246c75b02decd56eb5bada96dd3095032ad84ddd4dc6c668b46
+SHA521: 2f95f031e5454e92e35ff3287632cd29efe94e42fb6f3757a02dfde55d844984e734789a72221dcf637f21a1e364cffb89ab038b41564da51fe23d61fb7cdb5a
 
