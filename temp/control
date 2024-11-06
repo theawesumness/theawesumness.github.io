@@ -1,14 +1,14 @@
-Package: libbox2d
-Name: Box2D
-Version: 2.3.0-1
-Installed-Size: 557
+Package: com.booleanmagic.displayrecorder
+Name: Display Recorder
+Version: 1.3.7
 Architecture: iphoneos-arm
-Description: A 2D physics engine written by Erin Catto
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbox2dDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbox2dDp
-Maintainer: Bigboss <bigboss@thebigboss.org>
-Author: Conrad Kramer <support@kramerapps.com>
-Section: Development
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: conradkramer
-Tag: role::developer, purpose::library
+Description: Record the display in real-time with YouTube uploads, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Depiction: http://rpetri.ch/cydia/displayrecorder/
+Website: http://rpetri.ch/cydia/displayrecorder/
+Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depends: mobilesubstrate, preferenceloader (>= 2.0.5), libactivator (>= 1.7.2), gdata-objectivec-client, firmware (>= 3), openssl, gsc.opengles-2, firmware (<< 6.2)
+Tag: cydia::commercial
+Section: System
+dev: rpetrich
+Installed-Size: 1340
