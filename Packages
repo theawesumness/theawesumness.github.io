@@ -40,6 +40,27 @@ SHA1: 5bcb85603445c6ab2100931bf0d3181243176d55
 SHA256: 7101536b48daa0c904d84eb3454f6d5f866842ee91688a4090e372c335a893fc
 SHA521: 2d8cad7ca79d3acba9c0e0162981629cdede79550e09bc18feb56a070bed320efa7ab18b68d002a6fa5b90f12dd9874d7130811c7108c8024c1604d61b4e2ee6
 
+Package: name.alleon.displayrecorder
+Name: Display Recorder
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Description: Display Recorder – пишем видео с экрана iPhone. 
+Maintainer: Alleon <andjerk@gmail.com>
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depends: mobilesubstrate, preferenceloader (>= 2.0), libactivator (>= 1.4.5), gdata-objectivec-client, firmware (>= 3.0), openssl, gsc.opengles-2, firmware (<< 4.4)
+Section: App
+Installed-Size: 888
+Sponsor: NewApps.ru <http://www.newapps.ru>
+Depiction: http://www.newapps.ru/depiction/displayrecorder.html
+Filename: debs/displayrecorder.deb
+Depiction: https://theawesumness.github.io/depictions/name.alleon.displayrecorder.html
+Icon: https://theawesumness.github.io/icons/name.alleon.displayrecorder.png
+Size: 406584
+MD5sum: 88356a356477622d9818080cf0d0a01c
+SHA1: 7769e94ff35bad0a0b3bdb0c0f7a430479aa127d
+SHA256: d1f32e3fd36b9db0233fa055293e67734a0d0da9b7be04eaa6ef68a5a4a34238
+SHA521: 2fab762ab82d0ec4f8905f99386eefe65466e488cc7e937b7dfb82f4b8c3f9e457a63e55e61e04c4bd6ff4edfa2102e9b5495e6ad7926bcbdd721f98ddb7edd6
+
 Package: com.iCrackNews.graviboard
 Name: Graviboard
 Version: 2.1.1-1
